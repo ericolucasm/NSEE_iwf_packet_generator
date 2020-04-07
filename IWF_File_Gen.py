@@ -22,19 +22,4 @@ while NP > 0:
     DT = DT + i
     NP -= 1
 
-'''
-else:
-    j = PS
-    while j > 0:
-        A = ["%02x" % random.randint(0, 0xFF)]
-        B.append[A]
-        j -= 1
 
-    while NP > 0:
-        file.write(str(DT) + " " + str(PS) + " " + B)
-        file.write("\n")
-        DT = DT + i
-        NP -= 1
-    # print(NP)
-    # print(DT)
-'''
